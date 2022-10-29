@@ -8,5 +8,4 @@ In this user can:
 
 3)Withdraw Cash
 
-![BankGIF](https://user-images.githubusercontent.com/104568301/198818733-7c5e609a-7a03-4bde-b58f-a2a4bd312c1a.gif)
-
+![DigibyteDgbGIF](https://user-images.githubusercontent.com/104568301/198818804-8a19ad65-9436-4508-8675-251e592c1098.gif)
